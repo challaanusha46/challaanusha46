@@ -29,49 +29,38 @@ Credits and references used in this README:
 
 ---
 
-## Projects - showcase
+<h2>Projects - showcase</h2>
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/challaanusha46/VR_HRI_I-P">
-        <img src="assets/vr_hri_ui.png"
-             alt="VR Human–AI Trust Testbed UI"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="assets/vr_hri_ui.png" alt="VR Human–AI Trust Testbed UI" height="200" />
       </a>
       <br/>
       <b>VR Human–AI Trust Testbed</b><br/>
       <sub>Unity + Python VR environment to study trust, transparency, and decision-making in HRI.</sub><br/>
-      🔗 <a href="https://github.com/challaanusha46/VR_HRI_I-P">Repo</a>
-      <br/>
+      🔗 <a href="https://github.com/challaanusha46/VR_HRI_I-P">Repo</a><br/>
       <sub>Tags: Unity, HRI, Trust Modeling</sub>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/challaanusha46/Bias-Human-MDP">
-        <img src="assets/bias_human_mdp_pipeline.png"
-             alt="Bias-Aware Human MDP Pipeline"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="assets/bias_human_mdp_pipeline.png" alt="Bias-Aware Human MDP Pipeline" height="200" />
       </a>
       <br/>
       <b>Bias-Aware Human MDP</b><br/>
       <sub>Behavior-log parsing and decision modeling for bias-aware policy reasoning in HRI tasks.</sub><br/>
-      🔗 <a href="https://github.com/challaanusha46/Bias-Human-MDP">Repo</a>
-      <br/>
+      🔗 <a href="https://github.com/challaanusha46/Bias-Human-MDP">Repo</a><br/>
       <sub>Tags: MDP, Bayesian Modeling, Research</sub>
     </td>
-
     <td align="center" width="33%">
       <a href="https://github.com/challaanusha46/RL-assign">
-        <img src="assets/rl_uav_grid.png"
-             alt="Reinforcement Learning Simulation"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="assets/rl_uav_grid.png" alt="Reinforcement Learning Simulation" height="200" />
       </a>
       <br/>
       <b>Reinforcement Learning Experiments</b><br/>
       <sub>RL implementations with simulation demos, training runs, and evaluation outputs.</sub><br/>
-      🔗 <a href="https://github.com/challaanusha46/RL-assign">Repo</a>
-      <br/>
+      🔗 <a href="https://github.com/challaanusha46/RL-assign">Repo</a><br/>
       <sub>Tags: RL, Python, Simulation</sub>
     </td>
   </tr>
