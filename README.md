@@ -66,16 +66,13 @@ Credits and references used in this README:
 </table>
 
 ---
-
 ## Publications
-- **A Novel Computational Framework of Robot Trust for Human-Robot Teams** (ICRA 2025)  
-  - DBLP: https://dblp.org/rec/conf/icra/NareFCDJ25.html  
-  - DOI: 10.1109/ICRA55743.2025.11127674
+- [**A Novel Computational Framework of Robot Trust for Human-Robot Teams** (ICRA 2025)](http://thinc.cs.uga.edu/files/nfdcjICRA25.pdf)
 
-- **A Computational Model of Robot Trust for Human-Robot Teams** (ARMS @ AAMAS 2024)  
-  - PDF (THINC Lab): https://thinc.cs.uga.edu/files/nfcdcARMS2024.pdf  
-  - Workshop Program (ARMS 2024): https://arms2024.di.unimi.it/ARMS_files/ARMS_2024_Program.pdf
-    
+- [**A Computational Model of Robot Trust for Human-Robot Teams** (ARMS @ AAMAS 2024)](http://thinc.cs.uga.edu/files/nfcdcARMS2024.pdf)
+
+- [**A new MCDM approach integrating QFD, DEMATEL with TOPSIS for exploring the effect of social network usage on academic performance**](https://www.researchgate.net/publication/305250877_A_new_MCDM_approach_integrating_QFD_dematel_with_topsis_for_exploring_the_effect_of_social_network_usage_on_academic_performance)
+  
 - **Google Scholar**  
   - https://scholar.google.com/citations?pli=1&authuser=2&user=Y9kL_HUAAAAJ
 ---
