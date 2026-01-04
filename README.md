@@ -15,7 +15,7 @@ Credits and references used in this README:
 **`Data Scientist | AI Researcher (HRI + Trust Modeling) | MS AI(Thesis) Graduate @ University of Georgia 25`**
 
 ## About Me
-- I’m a Data Scientist and AI Researcher focused on **trust-aware AI** for **human–robot collaboration**.
+- I am a Data Scientist and AI Researcher focused on **trust-aware AI** for **human–robot collaboration**.
 - At UGA (THINC Lab), I build **VR-based HRI testbeds** and develop **probabilistic models** to understand and predict human behavior.
 - I enjoy turning research into clean, reusable code with clear experiments, evaluation, and results.
 ---
