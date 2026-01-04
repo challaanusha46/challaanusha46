@@ -12,13 +12,12 @@ Credits and references used in this README:
 -->
 
 # 🤖 Anusha Challa
-**`Data Scientist | AI Researcher (HRI + Trust Modeling) | MS AI @ University of Georgia`**
+**`Data Scientist | AI Researcher (HRI + Trust Modeling) | MS AI(Thesis) Graduate @ University of Georgia 25`**
 
 ## About Me
-- I work on **trust-aware AI** for **human–robot collaboration**, combining research with practical ML engineering.
-- Graduate Research Assistant at UGA (THINC Lab) focused on **behavioral modeling**, **probabilistic trust inference**, and **VR-based HRI testbeds**.
-- Previously built and delivered enterprise systems in insurance/finance using **Pega PRPC**, APIs, and workflow automation.
-
+- I’m a Data Scientist and AI Researcher focused on **trust-aware AI** for **human–robot collaboration**.
+- At UGA (THINC Lab), I build **VR-based HRI testbeds** and develop **probabilistic models** to understand and predict human behavior.
+- I enjoy turning research into clean, reusable code with clear experiments, evaluation, and results.
 ---
 
 ## Skill stack
@@ -69,15 +68,18 @@ Credits and references used in this README:
 ---
 
 ## Publications
-- **A Novel Computational Framework of Robot Trust for Human-Robot Teams** — IEEE ICRA 2025 (Oral)
-- **A Computational Model of Robot Trust for Human-Robot Teams** — ARMS Workshop, AAMAS 2024
+- **A Novel Computational Framework of Robot Trust for Human-Robot Teams** (ICRA 2025)  
+  - DBLP: https://dblp.org/rec/conf/icra/NareFCDJ25.html  
+  - DOI: 10.1109/ICRA55743.2025.11127674
 
+- **A Computational Model of Robot Trust for Human-Robot Teams** (ARMS @ AAMAS 2024)  
+  - PDF (THINC Lab): https://thinc.cs.uga.edu/files/nfcdcARMS2024.pdf  
+  - Workshop Program (ARMS 2024): https://arms2024.di.unimi.it/ARMS_files/ARMS_2024_Program.pdf
+    
+- **Google Scholar**  
+  - https://scholar.google.com/citations?pli=1&authuser=2&user=Y9kL_HUAAAAJ
 ---
 
-## Stats
-![Anusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=challaanusha46&show_icons=true&theme=gruvbox)
-
----
 
 ## Links
 - [**LinkedIn**](https://www.linkedin.com/in/challaanusha/)
